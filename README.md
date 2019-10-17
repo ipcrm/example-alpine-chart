@@ -10,5 +10,3 @@ couple of parameters.
 The `values.yaml` file contains the default values for the
 `alpine-pod.yaml` template.
 
-
-
